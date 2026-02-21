@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HELTZ",
+  "base_artist": "女王蜂",
+  "createdAt": "2026-02-21T02:54:17.696631Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HELTZ",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_01_HELTZ_女王蜂.txt"
+    }
+  ]
+}
